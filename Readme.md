@@ -1,0 +1,1 @@
+# Dentro de cada carpeta estan las respuestas a cada seccion de preguntas en un archivo Markdown y en la carpeta Symfony esta la API.
